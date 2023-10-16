@@ -3,7 +3,6 @@
   padding: 0;
   padding-bottom: 2vw;
   width: 100%;
-  display:flex;
+  display: flex;
   flex-direction: column;
-
 }
