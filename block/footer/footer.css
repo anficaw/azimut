@@ -1,0 +1,23 @@
+.footer {
+  margin: 0;
+  padding: 0;
+
+  margin-top: 90px;
+  margin-bottom: 24px;
+
+  width: 93vw;
+
+  display: grid;
+  grid-template-columns: min-content min-content min-content min-content min-content auto;
+  align-self: center;
+}
+
+@media screen and (max-width: 701px) {
+  .footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-self:flex-start;
+    
+  }
+}
