@@ -1,0 +1,35 @@
+.intro__title {
+  margin: 0;
+  padding: 0;
+
+  width: 70%;
+
+  color: #fff;
+  font-family: Inter;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 107%; /* 107.407% */
+  text-align: left;
+  letter-spacing: 0.3px;
+
+}
+
+@media screen and (max-width: 1150px) {
+  .intro__title {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 1005px) {
+  .intro__title {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .intro__title {
+    font-size: 32px;
+    line-height: 109%; /* 107.407% */
+  }
+}

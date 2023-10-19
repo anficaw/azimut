@@ -1,0 +1,11 @@
+.page {
+  margin: 0 auto;
+  padding: 0;
+  font-family: "Inter", Arial, sans-serif;
+  box-sizing: border-box;
+  background: #2a2c2f;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content:center;
+}

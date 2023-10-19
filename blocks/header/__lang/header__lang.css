@@ -1,0 +1,12 @@
+.header__lang {
+  margin: 0;
+  padding: 0;
+
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto;
+  
+  align-items:end;
+  justify-items: center;
+
+}
