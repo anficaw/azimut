@@ -33,33 +33,4 @@
 .cover:hover.cover::before {
   opacity: 0.8;
 }
-/*
-@media screen and (max-width: 1150px) {
-  .cover {
-    height: 640px;
-  }
 
-  .cover::before {
-    height: 640px;
-  }
-}
-
-@media screen and (max-width: 800px) {
-  .cover {
-    height: 480px;
-    
-  }
-  cover::before {
-    height: 480px;
-  }
-}
-
-
-@media screen and (max-width: 750px) {
-  .cover {
-    height: 200px;
-  }
-  cover::before {
-    height: 200px;
-  }
-}

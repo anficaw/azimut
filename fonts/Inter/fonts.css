@@ -18,7 +18,7 @@
 }
 
 @font-face {
-  ssrc: url("../Inter/Inter-Black.woff2") format("woff2"),
+  src: url("../Inter/Inter-Black.woff2") format("woff2"),
   url("../Inter/InterBlack.woff") format("woff");
 
   font-family: "Inter";

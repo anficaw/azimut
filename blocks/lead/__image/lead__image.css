@@ -23,7 +23,6 @@
 
 @media screen and (max-width: 500px) {
   .lead__image {
-    margin-top: 52px;
     height: 200px;
     margin-top: 40px;
   }
