@@ -4,7 +4,7 @@
   padding: 0;
 
   color: #fff;
-  font-family: Inter;
+  font-family: "Inter", Arial, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -13,7 +13,7 @@
   text-decoration: none;
 }
 
-.footer__link:hover{
+.footer__link:hover {
   opacity: 0.8;
 }
 
@@ -22,9 +22,9 @@
     font-size: 24px;
     line-height: 100%; /* 112.5% */
     padding-bottom: 32px;
-
-  
- 
   }
 }
 
+.footer__link:last-child {
+  margin-right: 0;
+}

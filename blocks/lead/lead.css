@@ -14,21 +14,13 @@
 
 @media screen and (max-width: 1150px) {
   .lead {
+    margin-top: 48px;
     width: calc(100% - (46px * 2));
-    
   }
-
 }
 
 @media screen and (max-width: 800px) {
   .lead {
-    margin-top: 48px;
-    width:100%;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .lead {
-    margin-top: 48px;
+    width: 100%;
   }
 }

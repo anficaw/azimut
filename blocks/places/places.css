@@ -22,15 +22,11 @@
 @media screen and (max-width: 800px) {
   .places {
     margin-top: 88px;
-    width:calc(100% - (22px * 2));
+    width:calc(100% - (24px * 2));
   }
 }
 
-@media screen and (max-width: 800px) {
-  .places {
-    width:calc(100% - (16px * 2));
-  }
-}
+
 
 @media screen and (max-width: 700px) {
   .places {
