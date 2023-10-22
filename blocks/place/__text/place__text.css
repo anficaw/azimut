@@ -9,6 +9,7 @@
   font-style: normal;
   font-weight: 400;
   line-height: 163%; /* 29.34px */
+  text-align: left;
 }
 
 .place__text:last-child {
@@ -19,7 +20,5 @@
   .place__text {
     font-size: 16px;
     padding-bottom: 25px;
-
   }
 }
-

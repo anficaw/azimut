@@ -10,7 +10,6 @@
   line-height: 114%; /* 114.286% */
 }
 
-
 @media screen and (max-width: 701px) {
   .footer__copyright {
     padding-left: 16px;

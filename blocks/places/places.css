@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   margin-top: 92px;
-  width:calc(100% - (145px * 2));
+  width: calc(100% - (145px * 2));
   box-sizing: border-box;
 
   align-self: center;
@@ -15,22 +15,20 @@
 
 @media screen and (max-width: 1150px) {
   .places {
-    width:calc(100% - (46px * 2));
+    width: calc(100% - (46px * 2));
   }
 }
 
 @media screen and (max-width: 800px) {
   .places {
     margin-top: 88px;
-    width:calc(100% - (24px * 2));
+    width: calc(100% - (24px * 2));
   }
 }
-
-
 
 @media screen and (max-width: 700px) {
   .places {
     margin-top: 64px;
-    width:100%;
+    width: 100%;
   }
 }

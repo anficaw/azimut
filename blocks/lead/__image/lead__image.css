@@ -5,8 +5,6 @@
   margin-top: 66px;
   object-fit: cover;
   object-position: center center;
-
-
 }
 
 @media screen and (max-width: 1150px) {
@@ -14,8 +12,6 @@
     margin-top: 52px;
   }
 }
-
-
 
 @media screen and (max-width: 500px) {
   .lead__image {

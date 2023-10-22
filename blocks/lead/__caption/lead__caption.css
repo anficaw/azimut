@@ -1,7 +1,7 @@
 .lead__caption {
   margin: 0;
   padding: 0;
-  margin-top: 12px;
+  margin-top: 8px;
   color: #fff;
   font-family: "Inter", Arial, sans-serif;
   font-size: 10px;
@@ -15,8 +15,8 @@
   justify-self: start;
 }
 
-@media screen and (max-width: 800px) {
-  .lead__caption{
-    padding-left: 14px;
+@media screen and (max-width: 400px) {
+  .lead__caption {
+    padding-left: 16px;
   }
 }
