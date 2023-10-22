@@ -15,6 +15,14 @@
   justify-self: start;
 }
 
+@media screen and (max-width: 800px) {
+  .lead__caption {
+    padding-left: 24px;
+  }
+}
+
+
+
 @media screen and (max-width: 400px) {
   .lead__caption {
     padding-left: 16px;
