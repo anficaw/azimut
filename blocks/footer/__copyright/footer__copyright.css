@@ -19,9 +19,10 @@
 
 @media screen and (max-width: 500px) {
   .footer__copyright {
- 
     line-height: 100%; /* 114.286% */
     align-self: start;
     padding-left: 0;
+    padding-top: 16px;
+
   }
 }
